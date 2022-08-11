@@ -1,4 +1,5 @@
 export enum Companies {
   UBER = "UBER",
-  NINENINE = "NINENINE"
+  NINENINE = "NINENINE",
+  LEIME = "LEIME"
 }
