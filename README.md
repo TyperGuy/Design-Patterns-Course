@@ -15,7 +15,7 @@ This repository i used to teach Design Patterns to my Reactjs Course students as
 ## 🧠 What i will learn
 
 
-- [X] Redux Workflow
+- [X] What is Design Patterns
 - [X] Actions
 - [X] Reducers
 - [X] Stores
