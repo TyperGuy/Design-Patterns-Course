@@ -18,10 +18,10 @@ This repository i used to teach Design Patterns to my Reactjs Course students as
 - [X] What is Design Patterns
 - [X] The GOF Concepts
 - [X] SOLID Principles
-- Criiattional Design patterns
-- [X] Assync Actions
-- [x] Cobinate Multiple Reducers
-- [x] Middlewere
+- [X] Criiattional Design patterns
+-  Assync Actions
+-  Cobinate Multiple Reducers
+-  Middlewere
 - [X] Redux-Thunk Middlewere
 - [ ] React-Redux
 - [ ] useSelector Hook
