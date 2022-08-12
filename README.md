@@ -25,8 +25,6 @@ This repository i used to teach Design Patterns to my Reactjs Course students as
 - [ ] Structural Design Patterns
   - Adapter
   - Bridge
-- [ ] Logger Middlewere
-- [ ] Redux Devetool extension
-- [ ] Action Payload
-- [ ] MapStateToProps
+- [ ] Behavioral Design Patterns
+  - Chain Responsablity
 
