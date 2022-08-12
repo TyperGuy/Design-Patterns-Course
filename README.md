@@ -22,10 +22,9 @@ This repository i used to teach Design Patterns to my Reactjs Course students as
   - Factory
   - Abstract Factory
   - Builder
-- [X] Redux-Thunk Middlewere
-- [ ] React-Redux
-- [ ] useSelector Hook
-- [ ] useDispatch Hook
+- [ ] Structural Design Patterns
+  - Adapter
+  - Bridge
 - [ ] Logger Middlewere
 - [ ] Redux Devetool extension
 - [ ] Action Payload
