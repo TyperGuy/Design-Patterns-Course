@@ -16,7 +16,7 @@ This repository i used to teach Design Patterns to my Reactjs Course students as
 
 
 - [X] What is Design Patterns
-- [X] Actions
+- [X] The GOF Concepts
 - [X] Reducers
 - [X] Stores
 - [X] Assync Actions
