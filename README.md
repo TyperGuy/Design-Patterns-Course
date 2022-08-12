@@ -1,6 +1,6 @@
 # Design-Patterns-Course
 
-This repository i used to teach Design Patterns to my Reactjs Course students
+This repository i used to teach Design Patterns to my Reactjs Course students as learn as well
 
 ## 💻 Programming Languages
 
