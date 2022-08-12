@@ -5,6 +5,7 @@ This repository i used to teach Design Patterns to my Reactjs Course students
 ## 💻 Programming Languages
 
 - Javascript
+- Typescript
 
 
 ## 📚 Libraries & frameworks
