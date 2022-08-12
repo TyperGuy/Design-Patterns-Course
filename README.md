@@ -10,8 +10,7 @@ This repository i used to teach Design Patterns to my Reactjs Course students
 
 ## 📚 Libraries & frameworks
 
-- React.JS
-- Redux.JS
+- Node.Js
 
 ## 🧠 What i will learn
 
