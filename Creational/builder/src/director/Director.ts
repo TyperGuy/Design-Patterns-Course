@@ -28,4 +28,13 @@ export default class DirectorBuilder{
       this.builder.addWheel(new Wheel(22));
 
   }
+  constructMotorCycle(){
+    this.builder.setVehicleType(VehicleType.MOTORCYCLE);
+    this.builder.setSeats(1);
+    this.builder.setTransmission(Transmission.AUTOMATIC_SEQUENCIAL);
+    this.builder.setEngine(new Engine(1000));
+    for(var i:number = 1; i>=0 ; i-- )
+      this.builder.addWheel(new Wheel(10));
+
+  }
 }
