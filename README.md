@@ -21,7 +21,7 @@ This repository i used to teach Design Patterns to my Reactjs Course students as
 - [X] The GOF Concepts
 - [X] SOLID Principles
 - [X] Criiattional Design patterns
-  - Factory
+    - [X] Factory
   - Abstract Factory
   - Builder
 - [x] Structural Design Patterns
