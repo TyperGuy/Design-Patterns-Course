@@ -1,6 +1,6 @@
 # Design-Patterns-Course
 
-<img src ="cover.jpeg" alt = " Design pattern"/>
+<img src="cover.jpg" alt = " Design pattern"/>
 
 This repository i used to teach Design Patterns to my Reactjs Course students as learn as well
 
