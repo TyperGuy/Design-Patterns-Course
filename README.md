@@ -27,6 +27,6 @@ This repository i used to teach Design Patterns to my Reactjs Course students as
 - [x] Structural Design Patterns
     - [X] Adapter
     - [X] Bridge
-- [x] Behavioral Design Patterns
+- [X] Behavioral Design Patterns
     -[X] Chain Responsablity
 
